@@ -1,4 +1,4 @@
-[![MasterHead](https://giffiles.alphacoders.com/174/1744.gif)]
+[![MasterHead](https://i.pinimg.com/originals/6a/e3/b1/6ae3b18ab7a19e8241839f3aa811b3fa.gif)]
 
 <h1 align="center"> I'm Janidu</h1>
 <h3 align="center">A passionate full Stack developer from srilanka</h3>
