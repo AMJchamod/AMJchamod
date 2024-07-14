@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amjchamod" alt="amjchamod" /></a> </p>
 
-- 🌱 I’m currently learning **3D WEB DESIGN  / CRACKING / BUG BOUNTY / CEH VOLUEM 12/ **
+- 🌱 I’m currently learning **3D WEB DESIGN  / CRACKING / BUG BOUNTY / CEH VOLUEM 12/ MAGIC🐱‍💻**
 
 - <H1> 👽Playfully doing something difficult, whether useful or not, that is hacking🐱‍👤</H1>
 
