@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amjchamod" alt="amjchamod" /></a> </p>
 
-- 🌱 I’m currently learning **Java / Java Script / Data structure / API / Java socket programming**
+- 🌱 I’m currently learning **3D WEB DESIGN  / CRACKING / BUG BOUNTY / CEH VOLUEM 12/ **
 
-- 💬 Ask me about **Java**
+- <H1> 👽Playfully doing something difficult, whether useful or not, that is hacking🐱‍👤</H1>
 
 - 📫 How to reach me **devilhook92@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
