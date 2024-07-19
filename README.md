@@ -12,7 +12,8 @@
 
 - 🌱 I’m currently learning **3D WEB DESIGN  / CRACKING / BUG BOUNTY / CEH VOLUEM 12/ MAGIC🐱‍💻**
 
-- <H1> 👽Playfully doing something difficult, whether useful or not, that is hacking🐱‍👤</H1>
+- <H1> 👽01001001 00100000 01110111 01101001 01101100 01101100 00100000 01101000 01100001 01100011 01101011 00100000 01111001 01101111 01110101
+🐱‍👤</H1>
 
 - 📫 How to reach me **devilhook92@gmail.com**
 
