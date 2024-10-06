@@ -60,6 +60,6 @@
 
 <h3 align="left">Certificates:</h3>
 <p>
-  <img src="URL_FOR_CERTIFICATE_1" alt="Software Engineering Certificate - HackerRank" width="300" />
+  <img src="software_engineer certificate (1)_page-0001.jpg" alt="Software Engineering Certificate - HackerRank" width="300" />
   <img src="URL_FOR_CERTIFICATE_2" alt="SQL Certificate - HackerRank" width="300" />
 </p>
