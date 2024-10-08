@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **3D WEB DESIGN / CRACKING / BUG BOUNTY / CEH VOLUME 12 / MAGIC🐱‍💻**
 
-- <h1>👽01001001 00100000 01110111 01101001 01101100 01101100 00100000 01101000 01100001 01100011 01101011 00100000 01111001 01101111 01110101🐱‍👤</h1>
-
 - 📫 How to reach me **devilhook92@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -64,3 +62,6 @@
   <img src="software_engineer certificate (1)_page-0001.jpg" alt="Software Engineering Certificate - HackerRank" width="300" />
  
 </p>
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amjchamod&show_icons=true&locale=en&layout=compact" alt="amjchamod" /></p>
+<p>&nbsp;</p>
