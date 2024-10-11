@@ -59,9 +59,12 @@
 <h3 align="left">Certificates:</h3>
 <p>
     <img src="software_engineer_intern certificate_page-0001.jpg" alt="software_engineer_intern certificate" width="300" />
-  <img src="software_engineer certificate (1)_page-0001.jpg" alt="Software Engineering Certificate - HackerRank" width="300" />
- 
+ </P>
+
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+<p>
+  <img src="Alison_Certificate-2276-25547715_page-0001.jpg" alt="Ethical Hacking  - Alison" width="300" />
+  <h6>Verification Link:https://alison.com/certification/check/04cf455673</h6>
 </p>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amjchamod&show_icons=true&locale=en&layout=compact" alt="amjchamod" /></p>
 <p>&nbsp;</p>
