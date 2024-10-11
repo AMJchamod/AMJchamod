@@ -59,6 +59,8 @@
 <h3 align="left">Certificates:</h3>
 <p>
     <img src="software_engineer_intern certificate_page-0001.jpg" alt="software_engineer_intern certificate" width="300" />
+   <img src="software_engineer certificate (1)_page-0001.jpg" alt="software_engineer_intern certificate" width="300" />
+
  </P>
 
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
