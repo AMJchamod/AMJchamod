@@ -63,7 +63,7 @@
 
  </P>
 
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+
 <p>
   <img src="Alison_Certificate-2276-25547715_page-0001.jpg" alt="Ethical Hacking  - Alison" width="300" />
   <h6>Verification Link:https://alison.com/certification/check/04cf455673</h6>
