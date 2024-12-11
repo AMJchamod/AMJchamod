@@ -66,7 +66,7 @@
 
 <p>
   <img src="Alison_Certificate-2276-25547715_page-0001.jpg" alt="Ethical Hacking  - Alison" width="300" />
-  <h6>Verification Link:https://alison.com/certification/check/04cf455673</h6>
+
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amjchamod&show_icons=true&locale=en&layout=compact" alt="amjchamod" /></p>
 <p>&nbsp;</p>
